@@ -35,5 +35,4 @@ public:
 	float get_z() {return z;};
 	void  set_z(float _z = 0) {z=_z;};
 };
-
 #endif

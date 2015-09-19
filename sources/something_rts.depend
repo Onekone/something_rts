@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442646246 source:c:\users\onekone\documents\github\something_rts\sources\main.cpp
+	<iostream>
+	"code/geometry.cpp"
+
+1442646699 c:\users\onekone\documents\github\something_rts\sources\code\geometry.cpp
+	<math.h>
+
